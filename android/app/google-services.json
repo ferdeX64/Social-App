@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82442377916",
+    "project_id": "social-app-ffd6c",
+    "storage_bucket": "social-app-ffd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82442377916:android:3858efe429de970d010eb9",
+        "android_client_info": {
+          "package_name": "com.ferdex.socialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXTlpUpX3Y2Ds7s-T9Taeq5owoYBfmpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
